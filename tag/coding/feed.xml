@@ -32,7 +32,7 @@
   </description>  
   
   <content:encoded>
-    <![CDATA[  <p> fsafa</p>
+    <![CDATA[  
 <h1 id="launching_my_new_static_site">Launching my new static site</h1>
 <p>After having spent too much money over the years on a Squarespace website that I hardly utilized, I decided it was time to simplify and downsize to a static website. Being a fan of the Julia programming language, I chose to use the Julia-based static site generator <a href="https://franklinjl.org/">Franklin.jl</a>. It has been a remarkably simple and enjoyable process, and while there are certainly many features I have not yet learned how to use, I am very pleased with the results.</p>
 <p>Why did I decide to go static? I thought my previous website was very pretty. It opened to a page that cycled through several full page photos from field trips and field work that I have done during my schooling. The other pages on my site were nicely lain out with many high-res and beautiful photos of rocks, thin sections, or plots that I have made. It was certainly a nice site, but it was also a pain in the ass. Sure, the tools provided by Squarespace make it really easy to make pretty, nicely formatted layouts, but added a level of complexity that made it extremely annoying to edit after the fact. It also meant I had to make a special layout when accessing it from a phone, or just live with an ugly mobile site. This all compounded to a website that I did not enjoy working on &#40;and so I never did&#41; and was spending too much money on. Pretty pointless for a personal site to house my CV and information on my theses.</p>
