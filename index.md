@@ -1,9 +1,7 @@
 @def title = "Dyer Geologist"
 @def tags = ["Introduction"]
 
-~~~
-<img src="/assets/home.jpg" alt="An image of a man in a pink ball cap looking over a large autumn forest that extends into the horizon. Copyright of  stevenjjleephotography" style="width:550px;"/>
-~~~
+\figcap{}{An image of a man in a pink ball cap looking over a large autumn forest that extends into the horizon. Copyright of  stevenjjleephotography}{100}{/assets/home.jpg}
 
 <!-- ![An image of a man in a pink ball cap looking over a large autumn forest that extends into the horizon. Copyright of stevenjjleephotography](/assets/home.jpg) -->
 

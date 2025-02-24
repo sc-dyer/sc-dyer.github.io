@@ -8,6 +8,7 @@
   --small: 14px;
   --normal: 19px;
   --text-color: hsv(0, 0%, 20%);
+  
 }
 
 /* ==================================================================
@@ -18,6 +19,7 @@ html {
   font-family: "B612", Helvetica, Arial, sans-serif;
   font-size: var(--normal);
   color: var(--text-color);
+  background-color: #fdf6e3
 }
 
 /* ==================================================================
@@ -243,13 +245,13 @@ td {
 .franklin-content img {
   width: 70%;
   text-align: center;
-  padding-left: 10%;
+  padding-left: 0%;
 }
 
 .franklin-content .img-small img {
   width: 50%;
   text-align: center;
-  padding-left: 20%;
+  padding-left: 0%;
 }
 
 /* ==================================================================

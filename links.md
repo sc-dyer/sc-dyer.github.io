@@ -5,7 +5,7 @@ title = "Links"
 # My Links
 - [LinkedIn](www.linkedin.com/in/sabastien-dyer-12a997111)
 - [GitHub](https://github.com/sc-dyer)
-- [Mastodon](https://mstdn.ca/@scdyer) (I am not very active here)
+- [Mastodon](https://mstdn.ca/@scdyer)
 - [E-mail](mailto:scdyer@uwaterloo.ca)
 
 # Useful and Cool Links
