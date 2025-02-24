@@ -1,4 +1,4 @@
-@def title = "Sabastien Dyer"
+@def title = "Dyer Geologist"
 @def tags = ["Introduction"]
 
 ~~~
