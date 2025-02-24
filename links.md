@@ -8,7 +8,7 @@ title = "Links"
 - [Mastodon](https://mstdn.ca/@scdyer)
 - [E-mail](mailto:scdyer@uwaterloo.ca)
 
-# Useful and Cool Links
+# Useful and Interesting Links
 - [IsoPlotR](http://isoplotr.geo.utexas.edu/): For doing geochronology
 - [GeoRem](http://georem.mpch-mainz.gwdg.de/start.asp?dataversion=current): For finding geological standards
 - [MacroStrat](https://macrostrat.org/): Geological map aggregator
