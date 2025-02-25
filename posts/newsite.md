@@ -6,7 +6,7 @@ rss_description = "Why I decided to go static"
 rss_pubdate = Date(2025, 02, 23)
 rss_title = "Launching my new static site"
 +++
-\figcap{The beautiful and remote Atlin region in northern BC}{A view of a valley before a mountain with pink flowers in the foreground}{100}{/assets/atlin1.jpg}
+\figcap{The beautiful and remote Atlin region in northern BC}{}{A view of a valley before a mountain with pink flowers in the foreground}{100}{/assets/atlin1.jpg}
 
 # Launching my new static site
 After having spent too much money over the years on a Squarespace website that I hardly utilized, I decided it was time to simplify and downsize to a static website. Being a fan of the Julia programming language, I chose to use the Julia-based static site generator [Franklin.jl](https://franklinjl.org/). It has been a remarkably simple and enjoyable process, and while there are certainly many features I have not yet learned how to use, I am very pleased with the results.

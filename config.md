@@ -29,10 +29,10 @@ Add here global latex commands to use throughout your pages.
 \newcommand{\R}{\mathbb R}
 \newcommand{\scal}[1]{\langle #1 \rangle}
 
-\newcommand{\figcap}[4]{
+\newcommand{\figcap}[5]{
 ~~~
 <figure style="text-align:center;">
-<img src="#4" style="padding:0;width:#3%" alt="#2"/>
+<img src="#5" style="padding:0;width:#4%" alt="#3" title="#2"/>
 <figcaption><i>#1</i></figcaption>
 </figure>
 ~~~
