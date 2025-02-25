@@ -3,6 +3,13 @@ title = "CV"
 date = Date(2025, 02, 22)
 tags = ["work","papers"]
 +++
+# Index
+[Education](#education)\\
+[Publications](#publications)\\
+[Conference Presentations](#conference_presentations)\\
+[Work Experience](#work_experience)\\
+[Skills & Interests](#skills_interests)\\
+[Awards & Scholarships](#awards_scholarships)
 # Education
 ## University of Waterloo
 ### PhD in Geology (in progress)
