@@ -1,12 +1,11 @@
 +++
-title = "cv"
+title = "CV"
 date = Date(2025, 02, 22)
 tags = ["work","papers"]
 +++
-
 # Education
 ## University of Waterloo
-**PhD in Geology (in progress)**\\
+### PhD in Geology (in progress)
 Sep 2020 -- May 2025 (Expected)\\
 Waterloo, Ontario
 
@@ -15,7 +14,7 @@ Waterloo, Ontario
 **Thesis:** *Regionally extensive H2O-fluxed melting in the lower crust*
 
 ## Carleton University
-**MSc in Geology**\\
+### MSc in Geology
 Sep 2018 -- Aug 2020\\
 Ottawa, Ontario
 
@@ -24,11 +23,11 @@ Ottawa, Ontario
 **Thesis:** *The Early Jurassic metamorphic history of the Yukon-Tanana terrane of northwestern British Columbia: Insights from a new inverse garnet fractionation modelling technique*
 
 ## University of Toronto
-**BSc in Geology with a minor in GIS**\\
+### BSc in Geology with a minor in GIS
 Sep 2014 -- Apr 2018\\
 Toronto, Ontario
 
-**Honours:** 3.86/4.0 GPA, NSERC Undergraduate Research Award 2016--2017, University of Toronto Excellence Award 2015
+**Honours:** 3.86/4.0 GPA • NSERC Undergraduate Research Award 2016--2017 • University of Toronto Excellence Award 2015
 
 **Thesis:** PGEs in melt inclusions of volcanic rocks from the Southwest Pacific
 

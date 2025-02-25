@@ -1,5 +1,5 @@
 +++
-title = "Blog Index"
+title = "Photo Gallery"
 tags = ["geology","photos","thin-sections","landscapes"]
 +++
 

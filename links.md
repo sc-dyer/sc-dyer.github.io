@@ -9,7 +9,7 @@ title = "Links"
 - [E-mail](mailto:scdyer@uwaterloo.ca)
 
 # Useful and Interesting Links
-- [IsoPlotR](http://isoplotr.geo.utexas.edu/): For doing geochronology
+- [IsoplotR](http://isoplotr.geo.utexas.edu/): For doing geochronology
 - [GeoRem](http://georem.mpch-mainz.gwdg.de/start.asp?dataversion=current): For finding geological standards
 - [MacroStrat](https://macrostrat.org/): Geological map aggregator
 - [MAGEMin](https://computationalthermodynamics.github.io/MAGEMin/index.html): A useful tool for thermodynamic modelling
