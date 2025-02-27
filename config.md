@@ -32,6 +32,7 @@ Add here global latex commands to use throughout your pages.
 \newcommand{\figcap}[5]{
 ~~~
 <figure style="text-align:center;">
+<a href="#5" target="_blank">
 <img src="#5" style="padding:0;width:#4%" alt="#3" title="#2"/>
 <figcaption><i>#1</i></figcaption>
 </figure>
