@@ -13,7 +13,7 @@
     </title>
     <link> https://www.scdyer.com </link>
     <description>
-      <![CDATA[  My personal website  ]]>
+      <![CDATA[  This is Sabastien Dyer&#39;s personal website, subscribe for blog posts on geology, science, and technology  ]]>
     </description>
     <atom:link
       href="https://www.scdyer.com/feed.xml"
@@ -25,8 +25,8 @@
   <title>
     <![CDATA[  Launching my new static site  ]]>
   </title>
-  <link> https://www.scdyer.com/posts/newsite/index.html </link>
-  <guid> https://www.scdyer.com/posts/newsite/index.html </guid>
+  <link> https://www.scdyer.com/blog/newsite/index.html </link>
+  <guid> https://www.scdyer.com/blog/newsite/index.html </guid>
   <description>
     <![CDATA[  Why I decided to go static  ]]>
   </description>  
