@@ -17,10 +17,15 @@ ignore = ["node_modules/"]
 
 # RSS (the website_{title, descr, url} must be defined to get RSS)
 generate_rss = true
-website_title = "Dyer Geologist"
-website_descr = "My personal website"
-website_url = "https://www.scdyer.com"
+
 rss_full_content = true
+rss_website_title = "Dyer Geologist"
+rss_website_descr = "This is Sabastien Dyer's personal website, subscribe for blog posts on geology, science, and technology"
+rss_website_url   = "https://www.scdyer.com"
+website_title = "Dyer Geologist"
+website_descr = "This is Sabastien Dyer's personal website, subscribe for blog posts on geology, science, and technology"
+website_url = "https://www.scdyer.com"
+
 +++
 
 <!--

@@ -1,5 +1,5 @@
 +++
-title = "newsite"
+title = "Launching my new static site"
 date = Date(2025, 02, 23)
 tags = ["coding","webdev"]
 rss_description = "Why I decided to go static"
