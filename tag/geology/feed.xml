@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  Dyer Geologist  ]]>
+    </title>
+    <link> https://www.scdyer.com </link>
+    <description>
+      <![CDATA[  This is Sabastien Dyer&#39;s personal website, subscribe for blog posts on geology, science, and technology  ]]>
+    </description>
+    <atom:link
+      href="https://www.scdyer.com/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  Mulling over the Muskoka Domain  ]]>
+  </title>
+  <link> https://www.scdyer.com/blog/phd1/index.html </link>
+  <guid> https://www.scdyer.com/blog/phd1/index.html </guid>
+  <description>
+    <![CDATA[  Doing fieldwork in the Muskoka region of Ontario  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  
+<h1 id="mulling_over_the_muskoka_domain_phd_series_part_1">Mulling over the Muskoka domain &#40;PhD series part 1&#41;</h1>
+<p>This is the first part of a series of posts I intend to make that describe my PhD thesis and the work I have done for it over the past 4.5 years<sup id="fnref:1">[1]</sup>. In this first part I will be highlighting some of the questions that motivated my thesis and show off some interesting field observations.</p>
+<h2 id="ancient_mountains_in_ontario">Ancient mountains in Ontario</h2>
+<p>Readers that are familiar with the province of Ontario may be surprised to learn that almost a billion years ago, it was the heart of a mountain belt comparable to the Himalayas. The remnants of this mountain belt are found in the crystalline Canadian shield between Gravenhurst and Sudbury and studying these rocks inform us not only on how this ancient mountain belt formed, but also about the processes that are occurring in the depths of modern mountains belts all over the world. The part of this ancient mountain belt that I am particularly interested in is the Muskoka region. If you are from the Greater Toronto Area, you are familiar with this region as cottage country and you or someone you know likely owns a cottage in this area, or you have been camping there up in Algonquin Park. Geologically, this area is called the Muskoka domain, and it extends from Georgian Bay in the west and transitions into the related Opeongo domain to the east, which possibly extends all the way to the Ontario/Quebec border.</p>
+<h2 id="a_mid-crustal_channel">A mid-crustal channel?</h2>
+<p>It is the Muskoka and Opeongo domains that I am interested in because they represent an important and interesting mid-crustal structure in the ancient Grenville orogen. These units are made up largely of migmatites<sup id="fnref:2">[2]</sup> that have very high proportions of leucosome<sup id="fnref:3">[3]</sup> and contain a lot of coarse grained amphibole in both the leucosome and mesosome. These are two pieces of evidence that have been used to suggest that the migmatites were melted as a result of the addition of water</p>
+<p><table class="fndef" id="fndef:1">
+    <tr>
+        <td class="fndef-backref">[1]</td>
+        <td class="fndef-content">As of Feb, 2025. I hope to god this doesn&#39;t go on much longer.</td>
+    </tr>
+</table>
+<table class="fndef" id="fndef:2">
+    <tr>
+        <td class="fndef-backref">[2]</td>
+        <td class="fndef-content">Rocks that were partially melted, composed of leucosome, which represents former melt, and mesosome, which represents the original unmelted rock.</td>
+    </tr>
+</table>
+<table class="fndef" id="fndef:3">
+    <tr>
+        <td class="fndef-backref">[3]</td>
+        <td class="fndef-content">Former melt</td>
+    </tr>
+</table>
+</p>
+ ]]>
+  </content:encoded>
+    
+  <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Sabastien Dyer</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>

@@ -3,37 +3,43 @@
 
 <url>
     <loc>https://www.scdyer.com/blog/newsite/index.html</loc>
-    <lastmod>2025-02-28</lastmod>
+    <lastmod>2025-03-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+</url>
+<url>
+    <loc>https://www.scdyer.com/blog/phd1/index.html</loc>
+    <lastmod>2025-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://www.scdyer.com/cv/index.html</loc>
-    <lastmod>2025-02-28</lastmod>
+    <lastmod>2025-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://www.scdyer.com/links/index.html</loc>
-    <lastmod>2025-02-28</lastmod>
+    <lastmod>2025-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://www.scdyer.com/gallery/index.html</loc>
-    <lastmod>2025-02-28</lastmod>
+    <lastmod>2025-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://www.scdyer.com/index.html</loc>
-    <lastmod>2025-02-28</lastmod>
+    <lastmod>2025-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
 <url>
     <loc>https://www.scdyer.com/blog/index.html</loc>
-    <lastmod>2025-02-28</lastmod>
+    <lastmod>2025-03-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
 </url>
