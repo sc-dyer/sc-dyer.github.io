@@ -3,7 +3,7 @@ title = "Links"
 +++
 
 # My Links
-- [LinkedIn](www.linkedin.com/in/sabastien-dyer-12a997111)
+- [LinkedIn](https://www.linkedin.com/in/sabastien-dyer-12a997111)
 - [GitHub](https://github.com/sc-dyer)
 - [Mastodon](https://mstdn.ca/@scdyer)
 - [E-mail](mailto:scdyer@uwaterloo.ca)
