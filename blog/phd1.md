@@ -5,6 +5,7 @@ tags = ["geology","PhD","science","field_work"]
 rss_description = "Doing fieldwork in the Muskoka region of Ontario"
 rss_pubdate = Date(2025, 02, 28)
 rss_title = "Mulling over the Muskoka Domain"
+draft = true
 +++
 # Mulling over the Muskoka domain (PhD series part 1)
 This is the first part of a series of posts I intend to make that describe my PhD thesis and the work I have done for it over the past 4.5 years[^1]. In this first part I will be highlighting some of the questions that motivated my thesis and show off some interesting field observations.
