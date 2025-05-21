@@ -18,3 +18,4 @@ title = "Links"
 - [JuliaLang](https://julialang.org/): Home of the Julia programming language
 - [JuliaEarth](https://juliaearth.github.io/geospatial-data-science-with-julia/): Geospatial data science with julia online textbook
 - [OpenFlexure](https://openflexure.org/): Open source 3D-printed microscope
+- [Crustal Petrology Hub](http://www.crustalpetrologyhub.org/): Resources for crustal petrology (still under development)
