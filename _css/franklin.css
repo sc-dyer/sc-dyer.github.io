@@ -7,7 +7,7 @@
   --output-background: hsl(0, 0%, 98%);
   --small: 14px;
   --normal: 19px;
-  --text-color: hsv(0, 0%, 20%);
+  --text-color: #3c3836;
   
 }
 
@@ -19,7 +19,7 @@ html {
   font-family: "B612", Helvetica, Arial, sans-serif;
   font-size: var(--normal);
   color: var(--text-color);
-  background-color: #fff5d1
+  background-color: #F2E5BC
 }
 
 /* ==================================================================
@@ -57,17 +57,17 @@ html {
 
 .franklin-content .page-foot a {
   text-decoration: none;
-  color: #a6a2a0;
+  color: #a89984;
   text-decoration: underline;
 }
 
 .page-foot {
   font-size: 80%;
   font-family: "B612",Arial, serif;
-  color: #a6a2a0;
+  color: #a89984;
   text-align: center;
   margin-top: 6em;
-  border-top: 1px solid lightgrey;
+  border-top: 1px solid #bdae93;
   padding-top: 2em;
   margin-bottom: 4em;
 }
@@ -124,14 +124,14 @@ h6 {
 
 .franklin-content h1 {
   padding-bottom: 0.5em;
-  border-bottom: 3px double lightgrey;
+  border-bottom: 3px double #bdae93;
   margin-top: 1.5em;
   margin-bottom: 1em;
 }
 
 .franklin-content h2 {
   padding-bottom: 0.3em;
-  border-bottom: 1px solid lightgrey;
+  border-bottom: 1px solid #bdae93;
   margin-top: 2em;
   margin-bottom: 1em;
 }
@@ -169,7 +169,7 @@ td {
 
 .franklin-content blockquote {
   background: var(--block-background);
-  border-left: 7px solid #a8a8a8;
+  border-left: 7px solid #a89984;
   margin: 1.5em 10px;
   padding: 0.5em 10px;
   font-style: italic;
@@ -189,7 +189,7 @@ td {
 }
 
 .franklin-content a {
-  color: #004de6;
+  color: #458588;
   text-decoration: none;
 }
 
