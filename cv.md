@@ -42,15 +42,17 @@ Toronto, Ontario
 
 # Publications
 
-**Dyer S.C.**, Edgeworth I., Kendall B., Yakymchuk C., "Late-orogenic retrograde zircon growth", Contributions to Mineralogy and Petrology, Submitted 2024, Manuscript ID: CTMP-D-24-00202
+**Dyer S.C.**, Edgeworth I., Kendall B., Yakymchuk C., "Late-orogenic retrograde zircon growth.", Contributions to Mineralogy and Petrology, 2025, DOI: https://doi.org/10.1007/s00410-025-02219-3
 
-Scorsolini L.G., van Staal C., Yakymchuk C., Hanchar J., **Dyer S.C.**, "Exhumation mechanisms of high-pressure rocks with high-temperature overprinting: insights from eclogites of the Baie Verte Peninsula, Newfoundland", Journal of Metamorphic Geology, Submitted 2024, Manuscript ID: JMG-24-0034
+Scorsolini L.G., van Staal C., Yakymchuk C., Hanchar J., **Dyer S.C.**, "Exhumation mechanisms of high-pressure rocks with high-temperature overprinting: insights from eclogites of the Baie Verte Peninsula, Newfoundland", Journal of Metamorphic Geology, 2025,DOI: https://doi.org/10.1111/jmg.12817
 
-Soucy La Roche R., **Dyer S.C.**, Zagorevski A., Cottle J.M., Gaidies F., "50 Myr of Episodic Metamorphism Recorded in the Yukon-Tanana Terrane, Northern Canadian Cordillera: Evidence from Monazite and Xenotime Petrochronology", Lithosphere, 2022, \\DOI: https://doi-org.proxy.lib.uwaterloo.ca/10.2113/2022/7708357
+Soucy La Roche R., **Dyer S.C.**, Zagorevski A., Cottle J.M., Gaidies F., "50 Myr of Episodic Metamorphism Recorded in the Yukon-Tanana Terrane, Northern Canadian Cordillera: Evidence from Monazite and Xenotime Petrochronology", Lithosphere, 2022, \\DOI: https://doi.org/10.2113/2022/7708357
 
-Brown J. L., **Dyer S.C.**, Mungall J. E., Ellis D. J., Christy A. G., "High Pressure Cu-Fe-S Phase Equilibria: Some experimental and thermodynamic constraints on sulfides in subduction zones and the lithospheric mantle", Journal of Petrology, 2020, DOI: 10.1093/petrology/egaa043
+Brown J. L., **Dyer S.C.**, Mungall J. E., Ellis D. J., Christy A. G., "High Pressure Cu-Fe-S Phase Equilibria: Some experimental and thermodynamic constraints on sulfides in subduction zones and the lithospheric mantle", Journal of Petrology, 2020, DOI: https://doi.org/10.1093/petrology/egaa043
 
 # Conference Presentations
+**Dyer S.C.\***, Yakymchuk C., "Getting out of hot water: Regionally extensive H2O-fluxed melting in the Grenville Province", GAC-MAC, Ottawa, ON, Canada, May 2025
+
 **Dyer S.C.\***, Yakymchuk C., "Large wet orogen? Widespread H2O-fluxed melting in the middle crust in the Grenville", Goldschmidt, Chicago, IL, USA, Aug 2024
 
 **Dyer S.C.\***, Yakymchuk C., "Fluid-fluxed melting occurs on a regional scale in the Grenville Province", GSA Annual Meeting, Pittsburgh,PA, USA, Oct 2023
