@@ -1,6 +1,6 @@
 +++
 title = "CV"
-date = Date(2025, 02, 22)
+date = Date(2025, 07, 12)
 tags = ["work","papers"]
 +++
 # Index
@@ -73,6 +73,12 @@ Brown J.L.\*, **Dyer S.C.**, Mungall J.E., Ellis D.J., Christy A.G., "High Press
 Dyer S.C.*, Mungall J.E., "Experimental constraints on thermosolutal convection in the stratified Sudbury impact melt sheet", Penrose conference on layered mafic intrusions, Red Lodge, Montana, USA, Aug 2016
 
 # Work Experience
+## Bronzite Exploration
+**Exploration Geologist**\\
+Jul 2025 -- Present
+- Performed field based geological mapping, sampling, and prospecting.
+- Supported the field program and camp
+- Collected and logged rock samples and geological data
 ## University of Waterloo
 **Teaching Assistant -- Field School**\\
 Jan 2024 -- Apr 2024
