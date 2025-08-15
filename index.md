@@ -10,7 +10,7 @@ My name is Sabastien Dyer and this is my site. Feel free to look around to learn
 ## About Me
 I am a geologist by training, but geology is just one of my many interests. I also enjoy programming, particularly with the [Julia language](https://julialang.org/), GIS, and open-source technology. Recreationally, I enjoy biking, hiking, camping, and rock climbing.
 
-Currently, I am a student at the University of Waterloo, pursuing a PhD in geology. I study metamorphic petrology under the supervision of [Prof. Chris Yakymchuk](https://uwaterloo.ca/earth-environmental-sciences/profile/cyakymch). My research is on fluid-fluxed melting in the Grenville Province and metamorphic reactions. This project has involved multiple field seasons in rural Ontario, as well as a variety of lab techniques and computational modelling. 
+I have just recently succesfully defended my PhD in Geology at the University of Waterloo where I studied metamorphic petrology under the supervision of [Prof. Chris Yakymchuk](https://uwaterloo.ca/earth-environmental-sciences/profile/cyakymch). My research was on fluid-fluxed melting in the Grenville Province and metamorphic reactions. This project involved multiple field seasons in rural Ontario, as well as a variety of lab techniques and computational modelling. 
 
 I completed my MSc at Carleton University under the supervision of [Prof. Fred Gaidies](https://www.teamgar.net/) in collaboration with the Geologic Survey of Canada (GSC). Information about my MSc thesis and the thesis itself are available here.
 
