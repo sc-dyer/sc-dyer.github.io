@@ -1,6 +1,6 @@
 +++
 title = "CV"
-date = Date(2025, 07, 12)
+date = Date(2025, 08, 15)
 tags = ["work","papers"]
 +++
 # Index
@@ -12,13 +12,13 @@ tags = ["work","papers"]
 [Awards & Scholarships](#awards_scholarships)
 # Education
 ## University of Waterloo
-### PhD in Geology (in progress)
-Sep 2020 -- May 2025 (Expected)\\
+### PhD in Geology
+Sep 2020 -- Aug 2025\\
 Waterloo, Ontario
 
 **Honours:** 4.0/4.0 GPA
 
-**Thesis:** *Regionally extensive H2O-fluxed melting in the lower crust*
+**Thesis:** *High-Temperature Metamorphic Reactions from the Macro-Scale to the Micro-Scale*
 
 ## Carleton University
 ### MSc in Geology
@@ -75,7 +75,7 @@ Dyer S.C.*, Mungall J.E., "Experimental constraints on thermosolutal convection 
 # Work Experience
 ## Bronzite Exploration
 **Exploration Geologist**\\
-Jul 2025 -- Present
+Jul 2025 -- Aug 2025
 - Performed field based geological mapping, sampling, and prospecting.
 - Supported the field program and camp
 - Collected and logged rock samples and geological data
