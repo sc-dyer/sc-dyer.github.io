@@ -44,7 +44,7 @@ Toronto, Ontario
 
 **Dyer S.C.**, Edgeworth I., Kendall B., Yakymchuk C., "Late-orogenic retrograde zircon growth.", Contributions to Mineralogy and Petrology, 2025, DOI: [10.1007/s00410-025-02219-3](https://doi.org/10.1007/s00410-025-02219-3)
 
-Scorsolini L.G., van Staal C., Yakymchuk C., Hanchar J., **Dyer S.C.**, "Exhumation mechanisms of high-pressure rocks with high-temperature overprinting: insights from eclogites of the Baie Verte Peninsula, Newfoundland", Journal of Metamorphic Geology, 2025,DOI: [10.1111/jmg.1281](https://doi.org/10.1111/jmg.12817)
+Scorsolini L.G., van Staal C., Yakymchuk C., Hanchar J., **Dyer S.C.**, "Exhumation mechanisms of high-pressure rocks with high-temperature overprinting: insights from eclogites of the Baie Verte Peninsula, Newfoundland", Journal of Metamorphic Geology, 2025, DOI: [10.1111/jmg.1281](https://doi.org/10.1111/jmg.12817)
 
 Soucy La Roche R., **Dyer S.C.**, Zagorevski A., Cottle J.M., Gaidies F., "50 Myr of Episodic Metamorphism Recorded in the Yukon-Tanana Terrane, Northern Canadian Cordillera: Evidence from Monazite and Xenotime Petrochronology", Lithosphere, 2022, DOI:[10.2113/2022/7708357](https://doi.org/10.2113/2022/7708357)
 
