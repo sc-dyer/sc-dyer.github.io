@@ -7,4 +7,5 @@ Welcome to my blog! This is a humble collection of posts on a variety of topics 
 
 <!-- 2025-02-28: [Mulling over the Muskoka domain](/blog/phd1)\\ -->
 2025-08-19: [Let's abolish grad school](/blog/gradschool)
+
 2025-02-23: [Launching my new static site](/blog/newsite)
