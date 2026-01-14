@@ -4,81 +4,22 @@ date = Date(2025, 08, 15)
 tags = ["work","papers"]
 +++
 # Index
+[Work Experience](#work_experience)\\
 [Education](#education)\\
 [Publications](#publications)\\
 [Conference Presentations](#conference_presentations)\\
-[Work Experience](#work_experience)\\
 [Skills & Interests](#skills_interests)\\
 [Awards & Scholarships](#awards_scholarships)
-# Education
-## University of Waterloo
-### PhD in Geology
-Sep 2020 -- Aug 2025\\
-Waterloo, Ontario
-
-**Honours:** 4.0/4.0 GPA
-
-**Thesis:** *High-Temperature Metamorphic Reactions from the Macro-Scale to the Micro-Scale*
-
-## Carleton University
-### MSc in Geology
-Sep 2018 -- Aug 2020\\
-Ottawa, Ontario
-
-**Honours:** 11.6/12.0 GPA
-
-**Thesis:** *The Early Jurassic metamorphic history of the Yukon-Tanana terrane of northwestern British Columbia: Insights from a new inverse garnet fractionation modelling technique*
-
-## University of Toronto
-### BSc in Geology with a minor in GIS
-Sep 2014 -- Apr 2018\\
-Toronto, Ontario
-
-**Honours:** 3.86/4.0 GPA • NSERC Undergraduate Research Award 2016--2017 • University of Toronto Excellence Award 2015
-
-**Thesis:** PGEs in melt inclusions of volcanic rocks from the Southwest Pacific
-
-**Activities:** President of Society of Economic Geologists Student Chapter 2017--2018
-
-# Publications
-
-**Dyer S.C.**, Edgeworth I., Kendall B., Yakymchuk C., "Late-orogenic retrograde zircon growth.", Contributions to Mineralogy and Petrology, 2025, DOI: [10.1007/s00410-025-02219-3](https://doi.org/10.1007/s00410-025-02219-3)
-
-Scorsolini L.G., van Staal C., Yakymchuk C., Hanchar J., **Dyer S.C.**, "Exhumation mechanisms of high-pressure rocks with high-temperature overprinting: insights from eclogites of the Baie Verte Peninsula, Newfoundland", Journal of Metamorphic Geology, 2025, DOI: [10.1111/jmg.1281](https://doi.org/10.1111/jmg.12817)
-
-Soucy La Roche R., **Dyer S.C.**, Zagorevski A., Cottle J.M., Gaidies F., "50 Myr of Episodic Metamorphism Recorded in the Yukon-Tanana Terrane, Northern Canadian Cordillera: Evidence from Monazite and Xenotime Petrochronology", Lithosphere, 2022, DOI:[10.2113/2022/7708357](https://doi.org/10.2113/2022/7708357)
-
-Brown J. L., **Dyer S.C.**, Mungall J. E., Ellis D. J., Christy A. G., "High Pressure Cu-Fe-S Phase Equilibria: Some experimental and thermodynamic constraints on sulfides in subduction zones and the lithospheric mantle", Journal of Petrology, 2020, DOI:[10.1093/petrology/egaa043]( https://doi.org/10.1093/petrology/egaa043)
-
-# Conference Presentations
-**Dyer S.C.\***, Yakymchuk C., "Getting out of hot water: Regionally extensive H2O-fluxed melting in the Grenville Province", GAC-MAC, Ottawa, ON, Canada, May 2025
-
-**Dyer S.C.\***, Yakymchuk C., "Large wet orogen? Widespread H2O-fluxed melting in the middle crust in the Grenville", Goldschmidt, Chicago, IL, USA, Aug 2024
-
-**Dyer S.C.\***, Yakymchuk C., "Fluid-fluxed melting occurs on a regional scale in the Grenville Province", GSA Annual Meeting, Pittsburgh,PA, USA, Oct 2023
-
-**Dyer S.C.\***, Yakymchuk C., "How it’s made: An in-situ study of zircon-forming reactions in subsolidus metamorphic systems", Goldschmidt, Lyon, France, Jul 2023
-
-**Dyer S.C.\***, Yakymchuk C., "Most trace elements in metamorphic zircon are representative of equilibrium conditions", GAC-MAC, Halifax, NS, Canada, May 2022
-
-Soucy La Roche R.\*, **Dyer S.C.**, Zagorevski A., Cottle J.M., Gaidies F., "Monazite, xenotime and Al2SiO5 polymorphs, the perfect team to characterize polymetamorphism", Metamorphic Studies Group, Online conference, Mar 2021
-
-**Dyer S.C.\***, Soucy La Roche R., Gaidies F., Cutts J., Petts D., Zagorevski A., "A new inverse garnet fractionation modelling technique and applications to the Yukon-Tanana terrane of north-western British Columbia", GSA Connects, Online conference, Aug 2020
-
-Soucy La Roche R.\*, **Dyer S.C.**, Cottle J.M., Zagorevski A., Gaidies F., "Monazite and xenotime laser ablation split stream petrochronology, a proposed method to decipher the complex metamorphic evolution of the Yukon-Tanana Terrane, Northern Canadian Cordillera", GSA Annual Meeting, Phoenix, AZ, USA, Sep 2019
-
-Brown J.L.\*, **Dyer S.C.**, Mungall J.E., Ellis D.J., Christy A.G., "High Pressure Cu-Fe-S Phase Equilibria: Some experimental and thermodynamic constraints on sulfides in subduction zones and the lithospheric mantle", Resources for Future Generations, Vancouver, BC, Canada, Jun 2018
-
-**Dyer S.C.\***, Mungall J.E., "Experimental constraints on thermosolutal convection in the stratified Sudbury impact melt sheet", GAC-MAC, Kingston, ON, Canada, May 2017
-Dyer S.C.*, Mungall J.E., "Experimental constraints on thermosolutal convection in the stratified Sudbury impact melt sheet", Penrose conference on layered mafic intrusions, Red Lodge, Montana, USA, Aug 2016
 
 # Work Experience
 ## Bronzite Exploration
 **Exploration Geologist**\\
-Jul 2025 -- Aug 2025
-- Performed field based geological mapping, sampling, and prospecting.
-- Supported the field program and camp
-- Collected and logged rock samples and geological data
+Jul 2025 -- Present
+- Field based geological mapping, sampling, and prospecting.
+- Collection and logging of rock samples and geological data
+- Interpretation of geochemical and geochronological data
+- Petrographic analysis and interpretation
+- Synthesis and development of geological and tectonic models for the Somerset Trough copper project
 ## University of Waterloo
 **Teaching Assistant -- Field School**\\
 Jan 2024 -- Apr 2024
@@ -151,6 +92,70 @@ Sep 2018 -- Dec 2018
 Jul 2018 -- Aug 2018
 - Assisted in sample collection and collection of structural data in remote BC
 - Provided logistical and operational support in managing remote field camps
+
+# Education
+## University of Waterloo
+### PhD in Geology
+Sep 2020 -- Aug 2025\\
+Waterloo, Ontario
+
+**Honours:** 4.0/4.0 GPA
+
+**Thesis:** *High-Temperature Metamorphic Reactions from the Macro-Scale to the Micro-Scale*
+
+## Carleton University
+### MSc in Geology
+Sep 2018 -- Aug 2020\\
+Ottawa, Ontario
+
+**Honours:** 11.6/12.0 GPA
+
+**Thesis:** *The Early Jurassic metamorphic history of the Yukon-Tanana terrane of northwestern British Columbia: Insights from a new inverse garnet fractionation modelling technique*
+
+## University of Toronto
+### BSc in Geology with a minor in GIS
+Sep 2014 -- Apr 2018\\
+Toronto, Ontario
+
+**Honours:** 3.86/4.0 GPA • NSERC Undergraduate Research Award 2016--2017 • University of Toronto Excellence Award 2015
+
+**Thesis:** PGEs in melt inclusions of volcanic rocks from the Southwest Pacific
+
+**Activities:** President of Society of Economic Geologists Student Chapter 2017--2018
+
+# Publications
+
+**Dyer S.C.**, Edgeworth I., Kendall B., Yakymchuk C., "Late-orogenic retrograde zircon growth.", Contributions to Mineralogy and Petrology, 2025, DOI: [10.1007/s00410-025-02219-3](https://doi.org/10.1007/s00410-025-02219-3)
+
+Scorsolini L.G., van Staal C., Yakymchuk C., Hanchar J., **Dyer S.C.**, "Exhumation mechanisms of high-pressure rocks with high-temperature overprinting: insights from eclogites of the Baie Verte Peninsula, Newfoundland", Journal of Metamorphic Geology, 2025, DOI: [10.1111/jmg.1281](https://doi.org/10.1111/jmg.12817)
+
+Soucy La Roche R., **Dyer S.C.**, Zagorevski A., Cottle J.M., Gaidies F., "50 Myr of Episodic Metamorphism Recorded in the Yukon-Tanana Terrane, Northern Canadian Cordillera: Evidence from Monazite and Xenotime Petrochronology", Lithosphere, 2022, DOI:[10.2113/2022/7708357](https://doi.org/10.2113/2022/7708357)
+
+Brown J. L., **Dyer S.C.**, Mungall J. E., Ellis D. J., Christy A. G., "High Pressure Cu-Fe-S Phase Equilibria: Some experimental and thermodynamic constraints on sulfides in subduction zones and the lithospheric mantle", Journal of Petrology, 2020, DOI:[10.1093/petrology/egaa043]( https://doi.org/10.1093/petrology/egaa043)
+
+# Conference Presentations
+**Dyer S.C.\***, Yakymchuk C., "Getting out of hot water: Regionally extensive H2O-fluxed melting in the Grenville Province", GAC-MAC, Ottawa, ON, Canada, May 2025
+
+**Dyer S.C.\***, Yakymchuk C., "Large wet orogen? Widespread H2O-fluxed melting in the middle crust in the Grenville", Goldschmidt, Chicago, IL, USA, Aug 2024
+
+**Dyer S.C.\***, Yakymchuk C., "Fluid-fluxed melting occurs on a regional scale in the Grenville Province", GSA Annual Meeting, Pittsburgh,PA, USA, Oct 2023
+
+**Dyer S.C.\***, Yakymchuk C., "How it’s made: An in-situ study of zircon-forming reactions in subsolidus metamorphic systems", Goldschmidt, Lyon, France, Jul 2023
+
+**Dyer S.C.\***, Yakymchuk C., "Most trace elements in metamorphic zircon are representative of equilibrium conditions", GAC-MAC, Halifax, NS, Canada, May 2022
+
+Soucy La Roche R.\*, **Dyer S.C.**, Zagorevski A., Cottle J.M., Gaidies F., "Monazite, xenotime and Al2SiO5 polymorphs, the perfect team to characterize polymetamorphism", Metamorphic Studies Group, Online conference, Mar 2021
+
+**Dyer S.C.\***, Soucy La Roche R., Gaidies F., Cutts J., Petts D., Zagorevski A., "A new inverse garnet fractionation modelling technique and applications to the Yukon-Tanana terrane of north-western British Columbia", GSA Connects, Online conference, Aug 2020
+
+Soucy La Roche R.\*, **Dyer S.C.**, Cottle J.M., Zagorevski A., Gaidies F., "Monazite and xenotime laser ablation split stream petrochronology, a proposed method to decipher the complex metamorphic evolution of the Yukon-Tanana Terrane, Northern Canadian Cordillera", GSA Annual Meeting, Phoenix, AZ, USA, Sep 2019
+
+Brown J.L.\*, **Dyer S.C.**, Mungall J.E., Ellis D.J., Christy A.G., "High Pressure Cu-Fe-S Phase Equilibria: Some experimental and thermodynamic constraints on sulfides in subduction zones and the lithospheric mantle", Resources for Future Generations, Vancouver, BC, Canada, Jun 2018
+
+**Dyer S.C.\***, Mungall J.E., "Experimental constraints on thermosolutal convection in the stratified Sudbury impact melt sheet", GAC-MAC, Kingston, ON, Canada, May 2017
+Dyer S.C.*, Mungall J.E., "Experimental constraints on thermosolutal convection in the stratified Sudbury impact melt sheet", Penrose conference on layered mafic intrusions, Red Lodge, Montana, USA, Aug 2016
+
+
 
 # Skills & Interests
 
