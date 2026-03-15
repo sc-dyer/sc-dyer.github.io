@@ -20,7 +20,7 @@ So I went off and purchased a 38t chainring, which is pretty much the smallest p
 
 ![Bicycle chainring on a crank](/assets/clearnace1.jpg)
 
-![Chainring on bicycle with calipers showing 4 mm clearance between chainstay and chainring](../_assets/clearance2.jpg)
+![Chainring on bicycle with calipers showing 4 mm clearance between chainstay and chainring](/assets/clearance2.jpg)
 
 You might be able to see the dent in the paint from my first attempt in this last image. In my second attempt, the clearance was about 4 mm, which is plenty for me so I installed it and double checked that it would work.
 
