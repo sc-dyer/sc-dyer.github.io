@@ -14,3 +14,59 @@ function lx_baz(com, _)
   # do whatever you want here
   return uppercase(brace_content)
 end
+
+@delay function hfun_blogposts()
+    today = Dates.today()
+    curyear = year(today)
+    curmonth = month(today)
+    curday = day(today)
+
+    list = readdir("blog")
+
+    filter!(endswith(".md"), list)
+    function sorter(p)
+        ps = splitext(p)[1]
+        url = "blog/$ps/"
+        surl = strip(url, '/')
+        pubdate = pagevar(surl, "rss_pubdate")
+        #if isnothing(pubdate)
+        #    return Date(Dates.unix2datetime(stat(surl * ".md").ctime))
+        #end
+        #return Date(pubdate, dateformat"yyyy-mm-dd")
+    end
+    sort!(list, by=sorter, rev=true)
+
+    io = IOBuffer()
+    #write(io, """<ul class="blog-posts">""")
+
+    write(io, """<div class="franklin-content">""")
+    for (i, post) in enumerate(list)
+        # if post == "content/index.md"
+        #     continue
+        # end
+        
+        ps = splitext(post)[1]
+        # write(io, "<li>")
+        url = "blog/$ps/"
+        url_aux = "./$ps/"
+        surl = strip(url, '/')
+        isdraft = pagevar(surl,"draft")
+        if isnothing(isdraft)
+          isdraft = false
+        end
+        if !isdraft
+          title = pagevar(surl, "title")
+          pubdate = pagevar(surl, "rss_pubdate")
+          description = pagevar(surl, "rss_description")
+          if isnothing(pubdate)
+              date = "$curyear-$curmonth-$curday"
+          else
+              #date = Date(pubdate, dateformat"yyyy-mm-dd")
+          end
+          write(io, """$pubdate<br>""")
+          write(io, """<a href="$url_aux">$title</a></b><p>""")
+        end
+    end
+    write(io, "</div>")
+    return String(take!(io))
+end
