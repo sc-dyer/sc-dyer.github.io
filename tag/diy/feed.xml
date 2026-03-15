@@ -23,6 +23,57 @@
 
 <item>
   <title>
+    <![CDATA[  Long Live the Mountain Dingle&#33;  ]]>
+  </title>
+  <link> https://www.scdyer.com/blog/finishedbike/index.html </link>
+  <guid> https://www.scdyer.com/blog/finishedbike/index.html </guid>
+  <description>
+    <![CDATA[  An overdue project update  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  
+<h1 id="long_live_the_mountain_dingle">Long Live the Mountain Dingle&#33;</h1>
+<p>Here is a long overdue project update on my bike build: It is finally complete&#33;</p>
+<p><img src="https://www.scdyer.com/assets/finishedbike1.jpg" alt="The finished dinglespeed" /></p>
+<p>Since two months ago.</p>
+<p>This just goes to show that I really have not been prioritizing writing. I apologize to any of you out there that may be listening but my assumption has been that most page views are from either bots or my family.</p>
+<p>Anyways, last we left off, the drivetrain was kind of dicked because the spindle for the crank did not fit all the way through to the other side of the bottom bracket. This resulted in a crank arm that started to fall off.</p>
+<p><img src="https://www.scdyer.com/assets/badfit2.jpg" alt="Crank arm coming off" /></p>
+<p>It took me a some time to mourn my financial losses and come up with a solution, but I was determined to make the dingle speed work. I ended up needing a new crank, bottom bracket, and chainrings to make that happen. I went with the <a href="https://www.raceface.ca/products/aeffect-crankset?variant&#61;32503715168389">RaceFace Aeffect</a> crank, with the 104BCD direct mount <a href="https://fortnine.ca/en/race-face-cinch-sixc-2x-spider-f10005">SixC spider</a>, 42t and 38t 104BCD chainrings, and a <a href="https://www.mec.ca/en/product/6036-137/shimano-bb-mt501-threaded-bottom-bracket-cups-6873mm?colour&#61;NO_COLOUR">Shimano BB-MT501 bottom bracket</a>. I was quite nervous ordering these parts because I had no idea if it would be possible to run two 104 BCD chainrings on it at the same time, but sometimes you just need to take a risk.</p>
+<p>The risk paid off though, and I have a fully functioning dingle-speed mountain bike&#33;</p>
+<p><img src="https://www.scdyer.com/assets/drivetrain1.jpg" alt="The completedrivetrain" /></p>
+<p>The clearance on the chainrings is much better than my first attempt too.</p>
+<p><img src="https://www.scdyer.com/assets/drivetrain2.jpg" alt="Closeup on front chainrings" /></p>
+<p>Alignment with the rear hub isn&#39;t perfect, but it works well enough, particularly for the higher gear.</p>
+<p><img src="https://www.scdyer.com/assets/freehub.jpg" alt="Freehub with two cogs" /></p>
+<p>The sketchiest aspect of this build are the double chainrings on this spider. I initially used chainring bolts that were too short and there was eventually a very concerning creaking sound coming from the chainrings when I pedalled. This issue was resolved with longer bolts, but the creaking comes back every now and again when the axle on the rear wheel starts to loosen. I&#39;m not sure why that triggers creaking in the front chainrings, but at least I know how to fix it&#33;</p>
+<p>I first took this bad boy out after a big snowstorm in January and it proved to be a good test for how well the bike handles difficult terrain. I went through the ravine system not far from my apartment and the snow was only slightly packed down.</p>
+<p><img src="https://www.scdyer.com/assets/finishedbike2.jpg" alt="The bike posing for a photo" /> <img src="https://www.scdyer.com/assets/finishedbike3.jpg" alt="Another sideshot of the full bike" /></p>
+<p>I ran into a little trouble on this route when the trail was unexpectedly narrowed to just a single track.</p>
+<p><img src="https://www.scdyer.com/assets/singletracksnow.jpg" alt="Singletrack struggles" /></p>
+<p>This was challenging to navigate because I was not used to riding on difficult terrain without gears. Any divergence from the packed snow resulted in the bike sinking into over a foot of snow and almost wiping out. It was lots of fun and I regret not going out on the trails more while they were like this.</p>
+<p>I have since put a rack on the bike and have been using it in my daily commute and I am excited to take it out on trails and long rides as the weather gets warmer. I still haven&#39;t decided on how I feel about the dingle-speed. I like having the option to switch to an easier gear if I want to, but the effort it takes to do so means that I don&#39;t switch very often and so I haven&#39;t been taking full advantage of it. My commute is downhill on my way to work and uphill on the way back so I have switched it a few times to commute home, but it&#39;s not necessary and I typically opt for just staying on the higher gear and stuggling uphill. I will see how it goes when I go on longer rides or end up in places with more elevation to deal with. Long term, I will likely end up switching out for an internal gear hub&mdash;maybe a three speed sturmey archer&mdash;and likely a belt drive. Until then, I will continue to enjoy this build and take it out on trails that it is certainly not suited for.</p>
+<p>Overall, building a bike is more expensive than buying something prebuilt, but it is fun and rewarding. The bike I ended up with is special and unique and I doubt anyone else has one like it. It was a financially stressful exercise and annoying to go for so long without access to a bicycle<sup id="fnref:1">[1]</sup>, but I now have a vehicle that I built with my own two hands and that I now feel a special connection with. That is something you just can&#39;t buy at the bike store.</p>
+<table class="fndef" id="fndef:1">
+    <tr>
+        <td class="fndef-backref">[1]</td>
+        <td class="fndef-content">Because I stripped parts off of my old bike</td>
+    </tr>
+</table> ]]>
+  </content:encoded>
+    
+  <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Sabastien Dyer</atom:name>
+  </atom:author>
+        
+</item>
+
+<item>
+  <title>
     <![CDATA[  Misadventures in Bike Building  ]]>
   </title>
   <link> https://www.scdyer.com/blog/bikebuilding/index.html </link>
@@ -40,7 +91,7 @@
 <p>I already had my fork cut and installed onto my frame by the bike shop, so I didn&#39;t have to putz around with that. I moved my old seat and seatpost onto the new frame and mounted it on my repair stand. I then went to isntall the bottom bracket, cranks and chainrings. This is where my first mistake became obvious. The initial gearing I had set up was 42t and 46t at the front and 20t and 16t at the back. I had these chainrings installed on a five-arm 110 BCD crank and figured everything would work out. I installed the crank arm and lo and behold: I did not consider the clearance on the chainstay, my lower gear had less than a mm of clearance. It could theoretically go, but that was way too close for comfort for me, and pushing the crank into the bottom bracket already caused the chain ring to dent the paint on the chainstay. This was, needless to say, very frustrating.</p>
 <p>So I went off and purchased a 38t chainring, which is pretty much the smallest possible size that will fit on a 5-arm BCD spider, moved the 42t to the outer gear and prayed that it would all fit together. Before installing the new chainring, I did my best to measure the clearance between the chainstay.</p>
 <p><img src="https://www.scdyer.com/assets/clearnace1.jpg" alt="Bicycle chainring on a crank" /></p>
-<p><img src="../_assets/clearance2.jpg" alt="Chainring on bicycle with calipers showing 4 mm clearance between chainstay and chainring" /></p>
+<p><img src="https://www.scdyer.com/assets/clearance2.jpg" alt="Chainring on bicycle with calipers showing 4 mm clearance between chainstay and chainring" /></p>
 <p>You might be able to see the dent in the paint from my first attempt in this last image. In my second attempt, the clearance was about 4 mm, which is plenty for me so I installed it and double checked that it would work.</p>
 <p><img src="https://www.scdyer.com/assets/clearance3.jpg" alt="" /></p>
 <p>Plenty of space to work with, so no worries. Next it was time to put on the other crank arm, where I encounted the next issue.</p>
