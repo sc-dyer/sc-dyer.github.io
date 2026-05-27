@@ -14,12 +14,14 @@ tags = ["work","papers"]
 # Work Experience
 ## Bronzite Exploration
 **Exploration Geologist**\\
-Jul 2025 -- Present
+Jun 2025 -- Present
 - Field based geological mapping, sampling, and prospecting.
 - Collection and logging of rock samples and geological data
 - Interpretation of geochemical and geochronological data
 - Petrographic analysis and interpretation
 - Synthesis and development of geological and tectonic models for the Somerset Trough copper project
+- Prospectivity mapping using the random forest algorithm in QGIS 	
+- Query building and data management in PostgreSQL database  
 ## University of Waterloo
 **Teaching Assistant -- Field School**\\
 Jan 2024 -- Apr 2024
