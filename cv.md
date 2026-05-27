@@ -23,6 +23,16 @@ Jun 2025 -- Present
 - Prospectivity mapping using the random forest algorithm in QGIS 	
 - Query building and data management in PostgreSQL database  
 ## University of Waterloo
+**PhD Researcher**\\
+Sep 2020 -- Aug 2025
+- Planned and managed a multi-year research project to result in multiple papers,
+presentations at multiple international conferences, and a PhD thesis
+- Developed and contributed to open source Julia and FORTRAN projects for data analysis,
+modelling, and data visualization
+- Accumulated and digitized data from multiple sources to design a geological map using
+QGIS
+- Organized and ran a multi-year field campaign in central Ontario
+
 **Teaching Assistant -- Field School**\\
 Jan 2024 -- Apr 2024
 - Helped professors and other teaching assistants with field logistics
@@ -158,21 +168,19 @@ Brown J.L.\*, **Dyer S.C.**, Mungall J.E., Ellis D.J., Christy A.G., "High Press
 Dyer S.C.*, Mungall J.E., "Experimental constraints on thermosolutal convection in the stratified Sudbury impact melt sheet", Penrose conference on layered mafic intrusions, Red Lodge, Montana, USA, Aug 2016
 
 
-
 # Skills & Interests
 
 ### GIS 
-I took a GIS minor where I learned how to use a variety of tools in ArcGIS. I've used ArcGIS and QGIS to build maps for papers, posters, and presentations by incorporating a variety of data sources. I have done most of my field work with mobile GIS tools such as QField and ArcGIS Field Maps. I enjoy making and desigining useful and aesthetic geological maps using these tools
+I took a GIS minor where I learned how to use a variety of tools in ArcGIS. I've used ArcGIS and QGIS to build maps for papers, posters, and presentations by incorporating a variety of data sources. I have done most of my field work with mobile GIS tools such as QField and ArcGIS Field Maps. I have used QGIS extensively in exploration geology for finding and planning targets. I have been growing my skillset in the use of GIS for prospectivity mapping, particularly data-driven methods including the application of the random forest algorithm.
 
 ### Field Work & Mapping 
-My field experience in my MSc and PhD were medium to large-scale regional studies that required targeted sampling. For my PhD, I was responsible for all logistics and planning of the field work. In my MSc, I worked with the GSC in remote northern BC, requiring multi-day fly camps in the mountains. My mapping skills have been developed primarily in field classes I have both taught and taken myself in multiple distinct geological regions in Ontario. I have a particular interest in field work and
-mapping as part of large regional studies of high grade metamorphic terranes.
+My field experience in my MSc and PhD were medium to large-scale regional studies that required targeted sampling. For my PhD, I was responsible for all logistics and planning of the field work. In my MSc, I worked with the GSC in remote northern BC, requiring multi-day fly camps in the mountains. My mapping skills have been developed primarily in Nunavut working on the Somerset Trough project where very little is known about the local geology. I have a particular interest in field work and mapping as part of large regional studies of high grade metamorphic terranes.
 
 ### Petrology & Geochemistry
-Most of my work has been focused on determining metamorphic reactions and pressure-temperature-time paths using a combination of thermodynamic modelling and a variety of analytical techniques including petrography, SEM, EPMA, LA-ICP-MS, and XR-μCT to analyze textures, mineral geochemistry, and dates and determine the tectonic history of a region. I have also worked on migmatites, using these same techniques in addition to bulk rock geochemistry to assess regional melting processes and pathways. I am especially interested in studying petrology of igneous and metamorphic rocks with the aim of developing comprehensive tectonic models.
+Most of my work has been focused on determining metamorphic reactions and pressure-temperature-time paths using a combination of thermodynamic modelling and a variety of analytical techniques including petrography, SEM, EPMA, LA-ICP-MS, and XR-μCT to analyze textures, mineral geochemistry, and dates and determine the tectonic history of a region. I have also worked on migmatites, using these same techniques in addition to bulk rock geochemistry to assess regional melting processes and pathways. I have done a comprehensive petrographic study of the Somerset Trough deposit in Nunavut, which provided deeper understanding of the local geology and tectonic processes that lead to the formation of this deposit. I am especially interested in studying petrology of igneous and metamorphic rocks with the aim of developing comprehensive tectonic models and understanding ore deposits.
 
 ### Programming & Data Science
-Throughout my MSc and PhD I have developed programs for modelling, data analysis, and data visualization using Python and Julia. This has required the application of tools like MatPlotLib, Makie.jl, and data frames, as well as statistical methods like K-means clustering, linear and nonlinear regressions, and principal component analysis. I enjoy working with large data sets and developing tools to interpret and visualize that data.
+Throughout my MSc and PhD I have developed programs for modelling, data analysis, and data visualization using Python and Julia. This has required the application of tools like MatPlotLib, Makie.jl, and data frames, as well as statistical methods like K-means clustering, linear and nonlinear regressions, and principal component analysis. I enjoy working with large data sets and developing tools to interpret and visualize that data. I am particularly interested in developing my skills in image processing and the applications to automating petrography and core logging.
 
 # Awards & Scholarships
 **Ontario Graduate Scholarship**\\
