@@ -25,12 +25,9 @@ Jun 2025 -- Present
 ## University of Waterloo
 **PhD Researcher**\\
 Sep 2020 -- Aug 2025
-- Planned and managed a multi-year research project to result in multiple papers,
-presentations at multiple international conferences, and a PhD thesis
-- Developed and contributed to open source Julia and FORTRAN projects for data analysis,
-modelling, and data visualization
-- Accumulated and digitized data from multiple sources to design a geological map using
-QGIS
+- Planned and managed a multi-year research project to result in multiple papers, presentations at multiple international conferences, and a PhD thesis
+- Developed and contributed to open source Julia and FORTRAN projects for data analysis, modelling, and data visualization
+- Accumulated and digitized data from multiple sources to design a geological map using QGIS
 - Organized and ran a multi-year field campaign in central Ontario
 
 **Teaching Assistant -- Field School**\\
