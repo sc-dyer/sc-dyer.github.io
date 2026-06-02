@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:media="http://search.yahoo.com/mrss/"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:georss="http://www.georss.org/georss">
+
+  <channel>
+    <title>
+      <![CDATA[  Dyer Geologist  ]]>
+    </title>
+    <link> https://www.scdyer.com </link>
+    <description>
+      <![CDATA[  This is Sabastien Dyer&#39;s personal website, subscribe for blog posts on geology, science, and technology  ]]>
+    </description>
+    <atom:link
+      href="https://www.scdyer.com/feed.xml"
+      rel="self"
+      type="application/rss+xml" />
+
+
+<item>
+  <title>
+    <![CDATA[  The Code Word is &#39;Wibbleshins&#39;  ]]>
+  </title>
+  <link> https://www.scdyer.com/blog/wibbleshins/index.html </link>
+  <guid> https://www.scdyer.com/blog/wibbleshins/index.html </guid>
+  <description>
+    <![CDATA[  How to tell me you are reading this  ]]>
+  </description>  
+  
+  <content:encoded>
+    <![CDATA[  
+<h1 id="the_code_word_is_wibbleshins">The Code Word is &quot;Wibbleshins&quot;</h1>
+<p>I don&#39;t look at website metrics. While I am sure that my website has metrics hidden somewhere if I bothered to look for them, I don&#39;t bother. I&#39;m sure I could figure out how many people are visiting my site, how many of those visitors are reading my blog, and whatever other fun numbers that people with websites love to look at, but I don&#39;t care. Even if I did care about those numbers, it wouldn&#39;t matter because they are very likely 0 or close enough to 0 that I could be convinced that any visits to my website are just bots.</p>
+<p>So instead of metrics and numbers, I offer you a code word. This code word is &quot;wibbleshins&quot;. It&#39;s a word I made up, and if other people have made it up before me, I did not consult their works. </p>
+<p>What should you do with this code word, you may ask? You can really do whatever you want with it, I release the word for you to use however you please, no attribution required. It is how I will know that you have been listening. Maybe you will send me a message with simply the word &quot;wibbleshins&quot; and nothing else. Perhaps you could put it in a postscript of an e-mail you send me. Maybe you can slip it into a novel you are writing and I will one day read it sitting out on my patio or before I go to bed. You could just say it to me when you run into me on the street. It does not matter how you use it or where. It does not even matter if I ever see or hear you use it–although that is the preferred outcome. Simply use it where you wish and hope that the universe will provide a way for me to be aware of the use so I can know you are listening.</p>
+<p>Perhaps you think this is silly, but the world needs a little more silliness.</p>
+<p>Wibbleshins.</p>
+ ]]>
+  </content:encoded>
+    
+  <pubDate>Tue, 02 Jun 2026 00:00:00 +0000</pubDate>  
+  
+  
+  <atom:author>
+    <atom:name>Sabastien Dyer</atom:name>
+  </atom:author>
+        
+</item>
+</channel></rss>
