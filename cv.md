@@ -12,9 +12,12 @@ tags = ["work","papers"]
 [Awards & Scholarships](#awards_scholarships)
 
 # Work Experience
+## Orix Geoscience
+**Geologist**\\
+Jun 2026 -- Present
 ## Bronzite Exploration
 **Exploration Geologist**\\
-Jun 2025 -- Present
+Jun 2025 -- Jun 2026
 - Field based geological mapping, sampling, and prospecting.
 - Collection and logging of rock samples and geological data
 - Interpretation of geochemical and geochronological data
