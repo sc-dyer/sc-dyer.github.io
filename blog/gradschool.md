@@ -5,6 +5,7 @@ tags = ["grad_school","PhD","science"]
 rss_description = "My solution to graduate school"
 rss_pubdate = Date(2025, 08, 19)
 rss_title = "Let's Abolish Grad School"
+draft = true
 +++
 
 # Let's Abolish Grad School
